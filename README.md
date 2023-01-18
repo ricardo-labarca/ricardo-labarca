@@ -7,7 +7,7 @@
 [[![Ricardo Labarca | LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-labarca) | [![Ricardo Labarca | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rikisan) | [![Ricardo Labarca | Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/relt87)]
 ---
 
-<img align="left" alt="Ricardo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ricardo-unosquare&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+<img align="left" alt="Ricardo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ricardo-labarca&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 <!--
 **ricardo-unosquare/ricardo-unosquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
